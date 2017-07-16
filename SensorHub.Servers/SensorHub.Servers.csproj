@@ -1,0 +1,281 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9BF5D683-F4F2-4D3D-8163-EDB3C3D6EAFC}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SensorHub.Servers</RootNamespace>
+    <AssemblyName>SensorHub.Servers</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Common.Logging, Version=3.3.1.0, Culture=neutral, PublicKeyToken=af08829b84f0328e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\bin\Common.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="Common.Logging.Core, Version=3.3.1.0, Culture=neutral, PublicKeyToken=af08829b84f0328e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\bin\Common.Logging.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net, Version=1.2.11.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\bin\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="Quartz, Version=2.4.1.0, Culture=neutral, PublicKeyToken=f6b8c98a402cc8a4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\bin\Quartz.dll</HintPath>
+    </Reference>
+    <Reference Include="SuperSocket.Common, Version=1.6.2.0, Culture=neutral, PublicKeyToken=6c80000676988ebb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\bin\SuperSocket.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="SuperSocket.Facility, Version=1.6.2.0, Culture=neutral, PublicKeyToken=6c80000676988ebb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\bin\SuperSocket.Facility.dll</HintPath>
+    </Reference>
+    <Reference Include="SuperSocket.ServerManager, Version=1.6.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\bin\SuperSocket.ServerManager.dll</HintPath>
+    </Reference>
+    <Reference Include="SuperSocket.SocketBase, Version=1.6.2.0, Culture=neutral, PublicKeyToken=6c80000676988ebb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\bin\SuperSocket.SocketBase.dll</HintPath>
+    </Reference>
+    <Reference Include="SuperSocket.SocketEngine, Version=1.6.2.0, Culture=neutral, PublicKeyToken=6c80000676988ebb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\bin\SuperSocket.SocketEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="SuperSocket.WebSocket, Version=1.6.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\bin\SuperSocket.WebSocket.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdlerReceiveFilter.cs" />
+    <Compile Include="AdlerServer.cs" />
+    <Compile Include="AdlerSession.cs" />
+    <Compile Include="ALServer.cs" />
+    <Compile Include="ALSession.cs" />
+    <Compile Include="CasicWakeUpJob.cs" />
+    <Compile Include="Commands\ADCommands\AdlerCmd.cs" />
+    <Compile Include="Commands\ADCommands\Config\Config.cs" />
+    <Compile Include="Commands\ADCommands\Config\HeadConfig.cs" />
+    <Compile Include="Commands\ADCommands\Config\IpConfig.cs" />
+    <Compile Include="Commands\ADCommands\Config\PortConfig.cs" />
+    <Compile Include="Commands\ADCommands\Config\SystemTimeConfig.cs" />
+    <Compile Include="Commands\ADCommands\Config\TagConfig.cs" />
+    <Compile Include="Commands\ADCommands\Config\CollectSettingcConfig.cs" />
+    <Compile Include="Commands\ADCommands\SystemTimeTag.cs" />
+    <Compile Include="Commands\ADCommands\SystemTimeTagHandler.cs" />
+    <Compile Include="Commands\ADCommands\Tag.cs" />
+    <Compile Include="Commands\ADCommands\TagHandler.cs" />
+    <Compile Include="Commands\ADCommands\UploadTag.cs" />
+    <Compile Include="Commands\ADCommands\TagFactory.cs" />
+    <Compile Include="Commands\ADCommands\NormalTag.cs" />
+    <Compile Include="Commands\ADCommands\SystemDateTag.cs" />
+    <Compile Include="Commands\ADCommands\FlowTagHandler.cs" />
+    <Compile Include="Commands\ADCommands\PressTagHandler.cs" />
+    <Compile Include="Commands\ADCommands\NoiseTagHandler.cs" />
+    <Compile Include="Commands\ADCommands\SystemDateTagHandler.cs" />
+    <Compile Include="Commands\ADCommands\DefaultTagHandler.cs" />
+    <Compile Include="Commands\ADCommands\LiquidTagHandler.cs" />
+    <Compile Include="Commands\AdlerAlarmCommands\AlarmOverrunCmd.cs" />
+    <Compile Include="Commands\AdlerAlarmCommands\AlarmSaltation.cs" />
+    <Compile Include="Commands\AdlerAlarmCommands\AlarmTimeOutCmd.cs" />
+    <Compile Include="Commands\BYCommands\BYVibratingPositionCmd.cs" />
+    <Compile Include="Commands\CASICCommands\CasicCmd.cs" />
+    <Compile Include="Commands\CASICCommands\Config\CollectSettingcConfig.cs" />
+    <Compile Include="Commands\CASICCommands\Config\Config.cs" />
+    <Compile Include="Commands\CASICCommands\Config\HeadConfig.cs" />
+    <Compile Include="Commands\CASICCommands\Config\IpConfig.cs" />
+    <Compile Include="Commands\CASICCommands\Config\PortConfig.cs" />
+    <Compile Include="Commands\CASICCommands\Config\SystemTimeConfig.cs" />
+    <Compile Include="Commands\CASICCommands\Config\TagConfig.cs" />
+    <Compile Include="Commands\CASICCommands\Config\TrapRespConfig.cs" />
+    <Compile Include="Commands\CASICCommands\DefaultTagHandler.cs" />
+    <Compile Include="Commands\CASICCommands\LiquidTagHandler.cs" />
+    <Compile Include="Commands\CASICCommands\NoiseTagHandler.cs" />
+    <Compile Include="Commands\CASICCommands\NormalTag.cs" />
+    <Compile Include="Commands\CASICCommands\CasicCommandFilter.cs" />
+    <Compile Include="Commands\CASICCommands\SystemDateTag.cs" />
+    <Compile Include="Commands\CASICCommands\SystemDateTagHandler.cs" />
+    <Compile Include="Commands\CASICCommands\SystemTimeTag.cs" />
+    <Compile Include="Commands\CASICCommands\SystemTimeTagHandler.cs" />
+    <Compile Include="Commands\CASICCommands\Tag.cs" />
+    <Compile Include="Commands\CASICCommands\TagFactory.cs" />
+    <Compile Include="Commands\CASICCommands\TagHandler.cs" />
+    <Compile Include="Commands\CASICCommands\UploadTag.cs" />
+    <Compile Include="Commands\CASICCommands\WellTagHandler.cs" />
+    <Compile Include="Commands\CASICCommands\HeartBeatTagHandler.cs" />
+    <Compile Include="Commands\CASICCommands\WakeUpTag.cs" />
+    <Compile Include="Commands\CASICCommands\WakeUpTagHandler.cs" />
+    <Compile Include="Commands\CASICCommands\CellTag.cs" />
+    <Compile Include="Commands\CASICCommands\CellTagHandler.cs" />
+    <Compile Include="Commands\CASICCommands\TempTagHandler.cs" />
+    <Compile Include="Commands\CASICCommands\PressTagHandler.cs" />
+    <Compile Include="Commands\CASICCommands\WaterMeterTagHandler.cs" />
+    <Compile Include="Commands\CASICCommands\FSSLTagHandler.cs" />
+    <Compile Include="Commands\CASICCommands\FSHJTagHandler.cs" />
+    <Compile Include="Commands\CASICCommands\RQTagHandler.cs" />
+    <Compile Include="Commands\CASICCommands\SensorException0Tag.cs" />
+    <Compile Include="Commands\CASICCommands\SensorException1Tag.cs" />
+    <Compile Include="Commands\CASICCommands\SensorException0TagHandler.cs" />
+    <Compile Include="Commands\CASICCommands\SensorException1TagHandler.cs" />
+    <Compile Include="Commands\DGNSZCommands\AbstractHander.cs" />
+    <Compile Include="Commands\EMSCommands\EmsCommand.cs" />
+    <Compile Include="Commands\EMSCommands\EmsCommandFilter.cs" />
+    <Compile Include="Commands\DGNSZCommands\LSFlowSetRespCmd.cs" />
+    <Compile Include="Commands\DGNSZCommands\LSFlowSetRespCmdFilter.cs" />
+    <Compile Include="Commands\DGNSZCommands\LSNoiseHandlercs.cs" />
+    <Compile Include="Commands\DGNSZCommands\LSNoiseSetRespCmd.cs" />
+    <Compile Include="Commands\DGNSZCommands\LSNoiseSetRespCmdFilter.cs" />
+    <Compile Include="Commands\DGNSZCommands\LSPressureSetRespCmd.cs" />
+    <Compile Include="Commands\DGNSZCommands\LSPressureSetRespCmdFilter.cs" />
+    <Compile Include="Commands\DGNSZCommands\LSReceivePressCmd.cs" />
+    <Compile Include="Commands\DGNSZCommands\LSReceivePressCmdFilter.cs" />
+    <Compile Include="Commands\DGNSZCommands\LSReciveFlowCmd.cs" />
+    <Compile Include="Commands\DGNSZCommands\LSReciveFlowCmdFilter.cs" />
+    <Compile Include="Commands\DGNSZCommands\LSReciveNoiseCmd.cs" />
+    <Compile Include="Commands\DGNSZCommands\LSReciveNoiseCmdFilter.cs" />
+    <Compile Include="Commands\LiquidCommands\LSDataOverCmd.cs" />
+    <Compile Include="Commands\LiquidCommands\LSLiqusSetRespCmd.cs" />
+    <Compile Include="Commands\LiquidCommands\LSReceiveLiquidCmd.cs" />
+    <Compile Include="Commands\LiquidCommands\LSSectionCmd.cs" />
+    <Compile Include="Commands\LiquidCommands\LSStalkOverCmd.cs" />
+    <Compile Include="Commands\NKCommands\GXCommandFilter.cs" />
+    <Compile Include="Commands\NKCommands\HeartBeat.cs" />
+    <Compile Include="Commands\NKCommands\NKStressCurveCmd.cs" />
+    <Compile Include="Commands\NKCommands\NKTemperatureCurveCmd.cs" />
+    <Compile Include="Commands\NKCommands\NKVibratingCurveCmd.cs" />
+    <Compile Include="Commands\NKCommands\NKVibratingPositionCmd.cs" />
+    <Compile Include="Commands\RHRQCommands\RHRQCmd.cs" />
+    <Compile Include="Commands\RQCommands\RQAlarmUploadCmd.cs" />
+    <Compile Include="Commands\RQCommands\RQCommandFilter.cs" />
+    <Compile Include="Commands\RQCommands\RQPeriodUploadCmd.cs" />
+    <Compile Include="Commands\RQCommands\RQReadingRespCmd.cs" />
+    <Compile Include="Commands\RQCommands\RQSimSettingRespCmd.cs" />
+    <Compile Include="Commands\RQCommands\RQTimeSettingRespCmd.cs" />
+    <Compile Include="Commands\RQCommands\RQSettingRespCmd.cs" />
+    <Compile Include="Commands\SLCommands\SLIpconfigCmd.cs" />
+    <Compile Include="Commands\SLCommands\SLIpconfigCmdFilter.cs" />
+    <Compile Include="Commands\SLCommands\SLRepeatCmd.cs" />
+    <Compile Include="Commands\SLCommands\SLRepeatCmdFilter.cs" />
+    <Compile Include="Commands\SLCommands\SLResetCmd.cs" />
+    <Compile Include="Commands\SLCommands\SLResetCmdFilter.cs" />
+    <Compile Include="Commands\SLCommands\SLUploadNoiseCmd.cs" />
+    <Compile Include="Commands\SLCommands\SLUploadNoiseCmdFilter.cs" />
+    <Compile Include="Commands\WSCommands\WSCommandFilter.cs" />
+    <Compile Include="Commands\WSCommands\WSHeartBeatCmd.cs" />
+    <Compile Include="Commands\WSCommands\WSSewAlarmDataCmd.cs" />
+    <Compile Include="Commands\WSCommands\WSSewPeriodDataCmd.cs" />
+    <Compile Include="Commands\WSCommands\WSSewTimingCmd.cs" />
+    <Compile Include="Commands\WSCommands\SewAcquireIntervalCmd.cs" />
+    <Compile Include="Commands\YLCommands\YLGetDeIdCmd.cs" />
+    <Compile Include="Commands\YLCommands\YLGetDelDataCmd.cs" />
+    <Compile Include="Commands\YLCommands\YLGetTimeCmd.cs" />
+    <Compile Include="Commands\YLCommands\YLGetUpdateTimeCmd.cs" />
+    <Compile Include="Commands\YLCommands\YLHeartBeatCmd.cs" />
+    <Compile Include="Commands\YLCommands\YLGetYLCmd.cs" />
+    <Compile Include="DNGSZServer.cs" />
+    <Compile Include="EmsServer.cs" />
+    <Compile Include="EmsSession.cs" />
+    <Compile Include="GXServer.cs" />
+    <Compile Include="GXSession.cs" />
+    <Compile Include="IDispatchServer.cs" />
+    <Compile Include="SZSLNoiseCommandLineFilter.cs" />
+    <Compile Include="SZSLNoiseIpconfigFilter.cs" />
+    <Compile Include="SZSLNoiseRepeatFilter.cs" />
+    <Compile Include="SZSLNoiseSwitchFilter.cs" />
+    <Compile Include="SZLiquidServer.cs" />
+    <Compile Include="SZLiquidSession.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RQFilter.cs" />
+    <Compile Include="RQServer.cs" />
+    <Compile Include="RQSession.cs" />
+    <Compile Include="SZSLNoiseServer.cs" />
+    <Compile Include="SZSLNoiseSession.cs" />
+    <Compile Include="SZLiquidCmdFilter.cs" />
+    <Compile Include="WSServer.cs" />
+    <Compile Include="WSSession.cs" />
+    <Compile Include="YLCmdFilter.cs" />
+    <Compile Include="YLServer.cs" />
+    <Compile Include="YLSession.cs" />
+    <Compile Include="CasicServer.cs" />
+    <Compile Include="CasicSession.cs" />
+    <Compile Include="CasicReceiveFilter.cs" />
+    <Compile Include="BYSession.cs" />
+    <Compile Include="BYServer.cs" />
+    <Compile Include="DGNSZSession.cs" />
+    <Compile Include="LiquidFilter.cs" />
+    <Compile Include="RHRQServer.cs" />
+    <Compile Include="RHRQSession.cs" />
+    <Compile Include="CasicSender.cs" />
+    <Compile Include="CasicGetDataJob.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SensorHub.BLL\SensorHub.BLL.csproj">
+      <Project>{8C2260D4-3E32-4C00-BDDA-BED82DE00BE4}</Project>
+      <Name>SensorHub.BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SensorHub.IDAL\SensorHub.IDAL.csproj">
+      <Project>{AF0F0405-93D6-4EF6-8603-2D66D6DCA44A}</Project>
+      <Name>SensorHub.IDAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SensorHub.Model\SensorHub.Model.csproj">
+      <Project>{7DC80059-361D-41BB-8EE1-BD23D21F9F2B}</Project>
+      <Name>SensorHub.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SensorHub.Utility\SensorHub.Utility.csproj">
+      <Project>{D8F11ED2-B70A-4541-93D0-2508DF14D7AB}</Project>
+      <Name>SensorHub.Utility</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ClassDiagram1.cd" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

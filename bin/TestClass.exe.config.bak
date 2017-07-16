@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<configuration>
+  <configSections>
+    <section name="superSocket" type="SuperSocket.SocketEngine.Configuration.SocketServiceConfig, SuperSocket.SocketEngine" />
+  </configSections>
+  <superSocket>
+    <servers>
+      <server name="LSServer" serverTypeName="MyLSServer" ip="Any" port="2012">
+      </server>
+      <server name="RQServer" serverTypeName="MyRQServer" ip="Any" port="2013">
+      </server>
+      <server name="SLServer" serverTypeName="MySLServer" ip="Any" port="2014">
+      </server>
+    </servers>
+    <serverTypes>
+      <add name="MyLSServer" type="SensorHub.Servers.LSServer,SensorHub.Servers" />
+      <add name="MySLServer" type="SensorHub.Servers.SLServer,SensorHub.Servers" />
+      <add name="MyRQServer" type="SensorHub.Servers.RQServer,SensorHub.Servers" />
+    </serverTypes>
+  </superSocket>
+  <startup>
+    <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.0" />
+  </startup>
+  <runtime>
+    <gcServer enabled="true" />
+  </runtime>
+  <appSettings>
+    <add key="ServiceName" value="SensorHubService" />
+    <add key="OraConnString3" value="Data Source=ORCL;User Id=scott;Password=orcl;Integrated Security=no;" />
+    <add key="DjFlowDAL" value="SensorHub.OracleDAL" />
+    <add key="DjPressDAL" />
+    <add key="ClientSettingsProvider.ServiceUri" value="" />
+  </appSettings>
+  <connectionStrings>2014/8/2
+    <add name="OraProfileConnString" connectionString="Data Source=localhost;user id=MSPETSHOPPROFILE;password=pass@word1;min pool size=4;max pool size=4" providerName="System.Data.OracleClient" />
+    <add name="OraMembershipConnString" connectionString="Data Source=localhost;user id=MSPETSHOPMEMBERSHIP;password=pass@word1;min pool size=4;max pool size=4" providerName="System.Data.OracleClient" />
+    <add name="OraConnString1" connectionString="Data Source=localhost;user id=MSPETSHOP;password=pass@word1;min pool size=4;max pool size=4" providerName="System.Data.OracleClient" />
+    <add name="OraConnString2" connectionString="Data Source=localhost;user id=MSPETSHOP;password=pass@word1;min pool size=4;max pool size=4" providerName="System.Data.OracleClient" />
+    <add name="OraConnString3" connectionString="Data Source=NAVY;user id=scott;password=ZHANGFAN;" />
+  </connectionStrings>
+  <system.web>
+    <membership defaultProvider="ClientAuthenticationMembershipProvider">
+      <providers>
+        <add name="ClientAuthenticationMembershipProvider" type="System.Web.ClientServices.Providers.ClientFormsAuthenticationMembershipProvider, System.Web.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" serviceUri="" />
+      </providers>
+    </membership>
+    <roleManager defaultProvider="ClientRoleProvider" enabled="true">
+      <providers>
+        <add name="ClientRoleProvider" type="System.Web.ClientServices.Providers.ClientRoleProvider, System.Web.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" serviceUri="" cacheTimeout="86400" />
+      </providers>
+    </roleManager>
+  </system.web>
+</configuration>

@@ -1,0 +1,2069 @@
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=wdma)(CID=(PROGRAM=E:\zhangfan\Sensorhub433\bin\TestClass.vshost.exe)(HOST=LENOVO-EE31D679)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-2月 -2016 17:19:13
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: Message 12541 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Message 511 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=wdma)(CID=(PROGRAM=E:\zhangfan\Sensorhub433\bin\TestClass.vshost.exe)(HOST=LENOVO-EE31D679)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-2月 -2016 17:20:37
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: Message 12541 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Message 511 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=wdma)(CID=(PROGRAM=E:\zhangfan\Sensorhub433\bin\TestClass.vshost.exe)(HOST=LENOVO-EE31D679)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-2月 -2016 17:23:43
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: Message 12541 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Message 511 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=wdma)(CID=(PROGRAM=E:\zhangfan\Sensorhub433\bin\TestClass.vshost.exe)(HOST=LENOVO-EE31D679)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-2月 -2016 17:24:41
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: Message 12541 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Message 511 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=wdma)(CID=(PROGRAM=E:\zhangfan\Sensorhub433\bin\TestClass.vshost.exe)(HOST=LENOVO-EE31D679)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-2月 -2016 17:25:39
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: Message 12541 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Message 511 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=wdma)(CID=(PROGRAM=E:\zhangfan\Sensorhub433\bin\TestClass.vshost.exe)(HOST=LENOVO-EE31D679)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-2月 -2016 17:26:37
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: Message 12541 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Message 511 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=wdma)(CID=(PROGRAM=E:\zhangfan\Sensorhub433\bin\TestClass.vshost.exe)(HOST=LENOVO-EE31D679)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-2月 -2016 17:27:35
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: Message 12541 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Message 511 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=wdma)(CID=(PROGRAM=E:\zhangfan\Sensorhub433\bin\TestClass.vshost.exe)(HOST=LENOVO-EE31D679)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-2月 -2016 17:29:31
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: Message 12541 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Message 511 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=wdma)(CID=(PROGRAM=E:\zhangfan\Sensorhub433\bin\TestClass.vshost.exe)(HOST=LENOVO-EE31D679)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-2月 -2016 17:30:29
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: Message 12541 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Message 511 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=wdma)(CID=(PROGRAM=E:\zhangfan\Sensorhub433\bin\TestClass.vshost.exe)(HOST=LENOVO-EE31D679)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-2月 -2016 17:31:27
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: Message 12541 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Message 511 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=wdma)(CID=(PROGRAM=E:\zhangfan\Sensorhub433\bin\TestClass.vshost.exe)(HOST=LENOVO-EE31D679)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-2月 -2016 17:32:25
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: Message 12541 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Message 511 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=wdma)(CID=(PROGRAM=E:\zhangfan\Sensorhub433\bin\TestClass.vshost.exe)(HOST=LENOVO-EE31D679)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-2月 -2016 17:33:23
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: Message 12541 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Message 511 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=wdma)(CID=(PROGRAM=E:\zhangfan\Sensorhub433\bin\TestClass.vshost.exe)(HOST=LENOVO-EE31D679)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-2月 -2016 17:34:21
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: Message 12541 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Message 511 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=wdma)(CID=(PROGRAM=E:\zhangfan\Sensorhub433\bin\TestClass.vshost.exe)(HOST=LENOVO-EE31D679)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-2月 -2016 17:35:19
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: Message 12541 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Message 511 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=wdma)(CID=(PROGRAM=E:\zhangfan\Sensorhub433\bin\TestClass.vshost.exe)(HOST=LENOVO-EE31D679)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-2月 -2016 17:36:17
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: Message 12541 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Message 511 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=wdma)(CID=(PROGRAM=E:\zhangfan\Sensorhub433\bin\TestClass.vshost.exe)(HOST=LENOVO-EE31D679)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-2月 -2016 17:37:15
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: Message 12541 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Message 511 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=wdma)(CID=(PROGRAM=E:\zhangfan\Sensorhub433\bin\TestClass.vshost.exe)(HOST=LENOVO-EE31D679)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-2月 -2016 17:38:13
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: Message 12541 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Message 511 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=wdma)(CID=(PROGRAM=E:\zhangfan\Sensorhub433\bin\TestClass.vshost.exe)(HOST=LENOVO-EE31D679)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-2月 -2016 17:39:11
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: Message 12541 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Message 511 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=wdma)(CID=(PROGRAM=E:\zhangfan\Sensorhub433\bin\TestClass.vshost.exe)(HOST=LENOVO-EE31D679)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-2月 -2016 17:40:09
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: Message 12541 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Message 511 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=wdma)(CID=(PROGRAM=E:\zhangfan\Sensorhub433\bin\TestClass.vshost.exe)(HOST=LENOVO-EE31D679)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-2月 -2016 17:41:07
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: Message 12541 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Message 511 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=wdma)(CID=(PROGRAM=E:\zhangfan\Sensorhub433\bin\TestClass.vshost.exe)(HOST=LENOVO-EE31D679)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-2月 -2016 17:42:05
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: Message 12541 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Message 511 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=wdma)(CID=(PROGRAM=E:\zhangfan\Sensorhub433\bin\TestClass.vshost.exe)(HOST=LENOVO-EE31D679)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-2月 -2016 17:43:03
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: Message 12541 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Message 511 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=wdma)(CID=(PROGRAM=E:\zhangfan\Sensorhub433\bin\TestClass.vshost.exe)(HOST=LENOVO-EE31D679)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-2月 -2016 17:44:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: Message 12541 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Message 511 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=wdma)(CID=(PROGRAM=E:\zhangfan\Sensorhub433\bin\TestClass.vshost.exe)(HOST=LENOVO-EE31D679)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-2月 -2016 17:44:59
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: Message 12541 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Message 511 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=wdma)(CID=(PROGRAM=E:\zhangfan\Sensorhub433\bin\TestClass.vshost.exe)(HOST=LENOVO-EE31D679)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-2月 -2016 17:45:57
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: Message 12541 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Message 511 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=wdma)(CID=(PROGRAM=E:\zhangfan\Sensorhub433\bin\TestClass.vshost.exe)(HOST=LENOVO-EE31D679)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-2月 -2016 17:46:55
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: Message 12541 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Message 511 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=wdma)(CID=(PROGRAM=E:\zhangfan\Sensorhub433\bin\TestClass.vshost.exe)(HOST=LENOVO-EE31D679)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-2月 -2016 17:47:53
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: Message 12541 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Message 511 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=wdma)(CID=(PROGRAM=E:\zhangfan\Sensorhub433\bin\TestClass.vshost.exe)(HOST=LENOVO-EE31D679)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-2月 -2016 17:48:51
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: Message 12541 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Message 511 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=wdma)(CID=(PROGRAM=E:\zhangfan\Sensorhub433\bin\TestClass.vshost.exe)(HOST=LENOVO-EE31D679)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-2月 -2016 17:49:49
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: Message 12541 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Message 511 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=wdma)(CID=(PROGRAM=E:\zhangfan\Sensorhub433\bin\TestClass.vshost.exe)(HOST=LENOVO-EE31D679)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-2月 -2016 17:50:47
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: Message 12541 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Message 511 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=wdma)(CID=(PROGRAM=E:\zhangfan\Sensorhub433\bin\TestClass.vshost.exe)(HOST=LENOVO-EE31D679)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-2月 -2016 17:51:45
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: Message 12541 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Message 511 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=wdma)(CID=(PROGRAM=E:\zhangfan\Sensorhub433\bin\TestClass.vshost.exe)(HOST=LENOVO-EE31D679)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-2月 -2016 17:52:43
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: Message 12541 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Message 511 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=wdma)(CID=(PROGRAM=E:\zhangfan\Sensorhub433\bin\TestClass.vshost.exe)(HOST=LENOVO-EE31D679)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-2月 -2016 17:53:41
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: Message 12541 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Message 511 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=wdma)(CID=(PROGRAM=E:\zhangfan\Sensorhub433\bin\TestClass.vshost.exe)(HOST=LENOVO-EE31D679)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-2月 -2016 17:54:39
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: Message 12541 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Message 511 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=wdma)(CID=(PROGRAM=E:\zhangfan\Sensorhub433\bin\TestClass.vshost.exe)(HOST=LENOVO-EE31D679)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-2月 -2016 17:55:37
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: Message 12541 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Message 511 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=wdma)(CID=(PROGRAM=E:\zhangfan\Sensorhub433\bin\TestClass.vshost.exe)(HOST=LENOVO-EE31D679)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-2月 -2016 17:56:35
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: Message 12541 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Message 511 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=wdma)(CID=(PROGRAM=E:\zhangfan\Sensorhub433\bin\TestClass.vshost.exe)(HOST=LENOVO-EE31D679)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-2月 -2016 17:57:33
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: Message 12541 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Message 511 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=wdma)(CID=(PROGRAM=E:\zhangfan\Sensorhub433\bin\TestClass.vshost.exe)(HOST=LENOVO-EE31D679)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-2月 -2016 17:58:31
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: Message 12541 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Message 511 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=wdma)(CID=(PROGRAM=E:\zhangfan\Sensorhub433\bin\TestClass.vshost.exe)(HOST=LENOVO-EE31D679)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-2月 -2016 17:59:29
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: Message 12541 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Message 511 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=wdma)(CID=(PROGRAM=E:\zhangfan\Sensorhub433\bin\TestClass.vshost.exe)(HOST=LENOVO-EE31D679)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-2月 -2016 18:00:57
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: Message 12541 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Message 511 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=wdma)(CID=(PROGRAM=E:\zhangfan\Sensorhub433\bin\TestClass.vshost.exe)(HOST=LENOVO-EE31D679)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-2月 -2016 18:02:24
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: Message 12541 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Message 511 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=wdma)(CID=(PROGRAM=E:\zhangfan\Sensorhub433\bin\TestClass.vshost.exe)(HOST=LENOVO-EE31D679)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-2月 -2016 18:03:49
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: Message 12541 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Message 511 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=wdma)(CID=(PROGRAM=E:\zhangfan\Sensorhub433\bin\TestClass.vshost.exe)(HOST=LENOVO-EE31D679)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-2月 -2016 18:05:14
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: Message 12541 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Message 511 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=wdma)(CID=(PROGRAM=E:\zhangfan\Sensorhub433\bin\TestClass.vshost.exe)(HOST=LENOVO-EE31D679)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-2月 -2016 18:06:39
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: Message 12541 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Message 511 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=wdma)(CID=(PROGRAM=E:\zhangfan\Sensorhub433\bin\TestClass.vshost.exe)(HOST=LENOVO-EE31D679)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-2月 -2016 18:08:06
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: Message 12541 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Message 511 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=wdma)(CID=(PROGRAM=E:\zhangfan\Sensorhub433\bin\TestClass.vshost.exe)(HOST=LENOVO-EE31D679)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-2月 -2016 18:09:34
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: Message 12541 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Message 511 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=wdma)(CID=(PROGRAM=E:\zhangfan\Sensorhub433\bin\TestClass.vshost.exe)(HOST=LENOVO-EE31D679)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-2月 -2016 18:11:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: Message 12541 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Message 511 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=wdma)(CID=(PROGRAM=E:\zhangfan\Sensorhub433\bin\TestClass.vshost.exe)(HOST=LENOVO-EE31D679)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-2月 -2016 18:51:08
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: Message 12541 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Message 511 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=wdma)(CID=(PROGRAM=E:\zhangfan\Sensorhub433\bin\TestClass.vshost.exe)(HOST=LENOVO-EE31D679)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-2月 -2016 18:51:35
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: Message 12541 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Message 511 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=wdma)(CID=(PROGRAM=E:\zhangfan\Sensorhub433\bin\TestClass.vshost.exe)(HOST=LENOVO-EE31D679)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-2月 -2016 19:08:26
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: Message 12541 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Message 511 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=wdma)(CID=(PROGRAM=E:\zhangfan\Sensorhub433\bin\TestClass.vshost.exe)(HOST=LENOVO-EE31D679)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 25-2月 -2016 11:13:44
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: Message 12541 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Message 511 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 29-2月 -2016 17:32:25
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 29-2月 -2016 18:12:03
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 29-2月 -2016 18:12:58
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 29-2月 -2016 18:13:54
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 29-2月 -2016 18:15:56
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 29-2月 -2016 18:16:26
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 29-2月 -2016 18:17:57
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 29-2月 -2016 18:18:57
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 29-2月 -2016 18:21:07
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 29-2月 -2016 18:21:36
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 29-2月 -2016 18:22:06
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 29-2月 -2016 18:22:36
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 29-2月 -2016 18:23:06
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 29-2月 -2016 18:23:36
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 29-2月 -2016 18:24:05
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 29-2月 -2016 18:24:35
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 29-2月 -2016 18:25:05
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 29-2月 -2016 18:25:35
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 29-2月 -2016 18:26:05
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=SZHTDB)(CID=(PROGRAM=E:\zhangfan\Sensorhub433\bin\SensorHubDesktop.vshost.exe)(HOST=LENOVO-EE31D679)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 02-3月 -2016 10:41:30
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: Message 12541 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Message 511 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.0.203)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=wdma)(CID=(PROGRAM=E:\zhangfan\Sensorhub433\bin\TestClass.vshost.exe)(HOST=LENOVO-EE31D679)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 04-3月 -2016 17:19:37
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: Message 12564 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.0.203)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=wdma)(CID=(PROGRAM=E:\zhangfan\Sensorhub433\bin\TestClass.vshost.exe)(HOST=LENOVO-EE31D679)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 04-3月 -2016 17:19:56
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: Message 12564 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 09-3月 -2016 13:28:03
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 09-3月 -2016 13:30:17
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 09-3月 -2016 13:30:49
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 09-3月 -2016 13:31:40
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 09-3月 -2016 13:32:55
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 09-3月 -2016 13:33:22
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 09-3月 -2016 13:34:17
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 09-3月 -2016 13:34:47
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 09-3月 -2016 13:36:10
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 09-3月 -2016 13:41:27
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 09-3月 -2016 13:41:48
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 09-3月 -2016 13:42:16
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 09-3月 -2016 13:43:00
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 09-3月 -2016 13:43:30
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 09-3月 -2016 13:43:58
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 09-3月 -2016 13:44:26
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 09-3月 -2016 13:44:52
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 09-3月 -2016 13:45:19
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 09-3月 -2016 13:45:47
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 09-3月 -2016 13:46:28
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 09-3月 -2016 13:46:49
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 09-3月 -2016 13:47:10
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 09-3月 -2016 13:49:04
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 09-3月 -2016 13:49:44
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 09-3月 -2016 13:50:05
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 09-3月 -2016 13:50:27
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 09-3月 -2016 13:50:48
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 09-3月 -2016 13:51:22
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 09-3月 -2016 13:52:28
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 09-3月 -2016 13:52:49
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 09-3月 -2016 13:53:50
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 09-3月 -2016 13:54:27
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 09-3月 -2016 13:55:12
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 09-3月 -2016 13:55:33
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 09-3月 -2016 13:55:54
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 09-3月 -2016 13:56:41
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>

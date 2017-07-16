@@ -1,0 +1,36 @@
+2017-06-02 16:35:36,756 [14464] DEBUG DefaultBootstrap - The server instance RQServer has been created!
+2017-06-02 16:35:38,721 [14464] DEBUG RQServer - The command 7B-89-00-13(SensorHub.Servers.Commands.RQCommands.RQSettingRespCmd, SensorHub.Servers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-06-02 16:35:38,721 [14464] DEBUG RQServer - The command 7B-89-00-15(SensorHub.Servers.Commands.RQCommands.RQSimSettingRespCmd, SensorHub.Servers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-06-02 16:35:38,722 [14464] DEBUG RQServer - The command 7B-89-00-12(SensorHub.Servers.Commands.RQCommands.RQReadingRespCmd, SensorHub.Servers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-06-02 16:35:38,722 [14464] DEBUG RQServer - The command 7B-89-00-10(SensorHub.Servers.Commands.RQCommands.RQPeriodUploadCmd, SensorHub.Servers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-06-02 16:35:38,722 [14464] DEBUG RQServer - The command 7B-89-00-14(SensorHub.Servers.Commands.RQCommands.RQTimeSettingRespCmd, SensorHub.Servers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-06-02 16:35:38,722 [14464] DEBUG RQServer - The command 7B-89-00-11(SensorHub.Servers.Commands.RQCommands.RQAlarmUploadCmd, SensorHub.Servers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-06-02 16:35:39,045 [14464] DEBUG DefaultBootstrap - The server instance RQServer has been initialized!
+2017-06-02 16:35:39,048 [14464] DEBUG DefaultBootstrap - The server instance BYServer has been created!
+2017-06-02 16:35:39,049 [14464] DEBUG BYServer - The command AlarmRpt(SensorHub.Servers.Commands.BYCommands.BYVibratingPositionCmd, SensorHub.Servers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-06-02 16:35:39,050 [14464] DEBUG DefaultBootstrap - The server instance BYServer has been initialized!
+2017-06-02 16:35:39,051 [14464] DEBUG DefaultBootstrap - The server instance WSServer has been created!
+2017-06-02 16:35:39,053 [14464] DEBUG WSServer - The command SewAcquireInterval(SensorHub.Servers.Commands.WSCommands.SewAcquireIntervalCmd, SensorHub.Servers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-06-02 16:35:39,053 [14464] DEBUG WSServer - The command SewPeriodData(SensorHub.Servers.Commands.WSCommands.WSSewPeriodDataCmd, SensorHub.Servers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-06-02 16:35:39,053 [14464] DEBUG WSServer - The command SewTiming(SensorHub.Servers.Commands.WSCommands.WSSewTimingCmd, SensorHub.Servers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-06-02 16:35:39,053 [14464] DEBUG WSServer - The command SewAlarmData(SensorHub.Servers.Commands.WSCommands.WSSewAlarmDataCmd, SensorHub.Servers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-06-02 16:35:39,053 [14464] DEBUG WSServer - The command HeartBeat(SensorHub.Servers.Commands.WSCommands.WSHeartBeatCmd, SensorHub.Servers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-06-02 16:35:39,054 [14464] DEBUG DefaultBootstrap - The server instance WSServer has been initialized!
+2017-06-02 16:35:39,055 [14464] DEBUG DefaultBootstrap - The server instance AdlerServer has been created!
+2017-06-02 16:35:39,056 [14464] DEBUG AdlerServer - The command Adler(SensorHub.Servers.Commands.ADCommands.AdlerCmd, SensorHub.Servers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-06-02 16:35:39,057 [14464] DEBUG DefaultBootstrap - The server instance AdlerServer has been initialized!
+2017-06-02 16:35:39,058 [14464] DEBUG DefaultBootstrap - The server instance CasicServer has been created!
+2017-06-02 16:35:39,059 [14464] DEBUG CasicServer - The command Casic(SensorHub.Servers.Commands.CASICCommands.CasicCmd, SensorHub.Servers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-06-02 16:35:39,060 [14464] DEBUG DefaultBootstrap - The server instance CasicServer has been initialized!
+2017-06-02 16:35:39,061 [14464] DEBUG DefaultBootstrap - The server instance YLServer has been created!
+2017-06-02 16:35:39,062 [14464] DEBUG YLServer - The command 0x00(SensorHub.Servers.Commands.YLCommands.YLGetDeIdCmd, SensorHub.Servers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-06-02 16:35:39,063 [14464] DEBUG YLServer - The command 0x10(SensorHub.Servers.Commands.YLCommands.YLGetYLCmd, SensorHub.Servers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-06-02 16:35:39,063 [14464] DEBUG YLServer - The command 0x01(SensorHub.Servers.Commands.YLHeartBeatCmd, SensorHub.Servers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-06-02 16:35:39,063 [14464] DEBUG YLServer - The command 0x05(SensorHub.Servers.Commands.YLCommands.YLGetTimeCmd, SensorHub.Servers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-06-02 16:35:39,063 [14464] DEBUG DefaultBootstrap - The server instance YLServer has been initialized!
+2017-06-02 16:35:39,064 [14464] DEBUG DefaultBootstrap - The server instance RHRQServer has been created!
+2017-06-02 16:35:39,066 [14464] DEBUG RHRQServer - The command RHRQ(SensorHub.Servers.Commands.RHRQCommands.RHRQCmd, SensorHub.Servers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-06-02 16:35:39,066 [14464] DEBUG DefaultBootstrap - The server instance RHRQServer has been initialized!
+2017-06-02 16:35:39,067 [14464] DEBUG DefaultBootstrap - The server instance EmsServer has been created!
+2017-06-02 16:35:39,069 [14464] DEBUG EmsServer - The command HeartBeat(SensorHub.Servers.Commands.EMSCommands.EmsCommand, SensorHub.Servers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-06-02 16:35:39,070 [14464] DEBUG DefaultBootstrap - The server instance EmsServer has been initialized!
